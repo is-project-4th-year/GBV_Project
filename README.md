@@ -92,10 +92,10 @@ GBV_PROJECT/
 
 | Metric    | Score |
 | --------- | ----- |
-| Accuracy  | ~0.87 |
-| Precision | ~0.84 |
-| Recall    | ~0.86 |
-| F1-Score  | ~0.85 |
+| Accuracy  | ~0.91 |
+| Precision | ~0.89 |
+| Recall    | ~0.90 |
+| F1-Score  | ~0.91 |
 
 
 ### **Category-Level Highlights**
