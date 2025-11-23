@@ -292,7 +292,6 @@ This work establishes a foundation for future research and development in **ethi
 # **11. Future Work**
 
 * Deploy as Chrome extension for real-time social media scanning
-* Add Swahili language support
 * Integrate sentiment trajectory graphs
 * Add community reporting + moderation features
 * Deploy scalable backend (FastAPI + Docker + Cloud Run)
